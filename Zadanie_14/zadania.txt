@@ -1,0 +1,9 @@
+Lista zadań łatwych:
+1 - dodawanie
+2 - odejmowanie
+lista zadań srednich: 
+3 - mnozenie 
+4 - dzielenie 
+lista zadań trudnych: 
+5 - gotowanie
+6 - sprzatanie
