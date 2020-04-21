@@ -24,6 +24,7 @@ def guess_number(a, b):
 
 if __name__ == "__main__":
     liczba = randint(0, 1001)
+    print(liczba)
     while game:
         try:
             user_quess = int(input("podaj liczbe: "))
